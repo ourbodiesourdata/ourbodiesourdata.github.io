@@ -6,11 +6,11 @@ These links come from a variety of sources, including www.reddit.com/r/DataHoard
 -	Download and store data on a personal hard drive as soon as you know you need it
 
 ### If using federal data that was removed and then returned to federal servers
-We strongly recommend that you compare this data to archived data or prior papers written using the same data source to check for omissions or changes.
+- We strongly recommend that you compare this data to archived data or prior papers written using the same data source to check for omissions or changes.
 
 ## Sources for News & Ongoing Data Rescue Efforts
 
-[/r/DataHoarder] (https://www.reddit.com/r/DataHoarder/)
+<a href="[https://web.site](https://www.reddit.com/r/DataHoarder/)">/r/DataHoarder</a>
 -	Coordinated many initial efforts to archive CDC data
 -	Ongoing discussion of data saving efforts
 
