@@ -10,7 +10,7 @@ These links come from a variety of sources, including www.reddit.com/r/DataHoard
 
 ## Sources for News & Ongoing Data Rescue Efforts
 
-<a href="[https://web.site](https://www.reddit.com/r/DataHoarder/)">/r/DataHoarder</a>
+<a href="https://www.reddit.com/r/DataHoarder/">/r/DataHoarder</a>
 -	Coordinated many initial efforts to archive CDC data
 -	Ongoing discussion of data saving efforts
 
