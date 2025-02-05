@@ -31,7 +31,7 @@ These links come from a variety of sources, including www.reddit.com/r/DataHoard
 
 <a href="https://www.ipums.org/">IPUMS</a>
 -	Decennial Census, 1 year American Community Survey, 5 year American Community Survey, Current Population Survey, and more
-o	NOTE: smallest geography is PUMA, census tract and block group not available
+-	NOTE: smallest geography is PUMA, census tract and block group not available
 -	Hosted by University of Minnesota
 
 <a href="https://www.icpsr.umich.edu/web/pages/index.html">ICPSR</a>
@@ -49,18 +49,18 @@ o	NOTE: smallest geography is PUMA, census tract and block group not available
 <a href="https://www.policymap.com/">Policy Map</a>
 -	Multiple datasets on demographics, health, policy, income, education, quality of life, lending data
 -	Basic information available for free, more detailed info requires a subscription
-o	subscriptions available through **many universities** logins
+- subscriptions available through **many universities** logins
 
 <a href="https://www.socialexplorer.com/explore-maps">Social Explorer</a>
 -	Historical US census and demographic data
-o	subscriptions available through **many universities** logins
+-	subscriptions available through **many universities** logins
 
 <a href="https://livingatlas.arcgis.com/en/home/">Esri Living Atlas of the World</a>
 -	As of 2/4/2025, Esri’s Living Atlas of the World has some American Community Survey data, Census data, and 2022 CDC Social Vulnerability Index
 
 <a href="https://archive.org/details/20250128-cdc-datasets">Archive.org CDC Datasets</a>
 -	Archive of all publicly available CDC data sets uploaded to https://data.cdc.gov/browse before January 28, 2025
-o	Includes both Behavioral Risk Factor Surveillance Survey and Youth Risk Behavior Surveillance System
+-	Includes both Behavioral Risk Factor Surveillance Survey and Youth Risk Behavior Surveillance System
 
 <a href="https://www.data-liberation-project.org/datasets/">Data Liberation Project</a>
 -	Variety of United States federal data sets and documents dated through 09/2024
@@ -87,7 +87,7 @@ o	Includes both Behavioral Risk Factor Surveillance Survey and Youth Risk Behavi
 
 <a href="https://cran.r-project.org/web/packages/findSVI/index.html">R Package: Social Vulnerability Index</a>
 -	R package that retrieves census data and calculates Social Vulnerability Index for you
-o	NOTE: census data must be available and retrievable for this to work
+-	NOTE: census data must be available and retrievable for this to work
 
 <a href="https://fred.stlouisfed.org/">Federal Reserve Economic Data</a>
 -	Many times series of economic data, some demographic data
